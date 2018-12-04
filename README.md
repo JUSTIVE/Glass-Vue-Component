@@ -1,21 +1,11 @@
 # glass_material
 
-## Project setup
-```
-npm install
-```
+a simple vue component inspired by Fluent Design System
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+![prevu](./imgres/prevu.png)
 
-### Compiles and minifies for production
-```
-npm run build
-```
+currently alpha, only following features are supported
 
-### Lints and fixes files
-```
-npm run lint
-```
+- ugly texts
+- fixed color(of course you can change if you handle all things)
+- caustic with shadows(mainly worked for this one!)
