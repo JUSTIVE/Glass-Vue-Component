@@ -1,16 +1,18 @@
 <template>
   <div id="app">
-    <glassmaterial msg=""/>
+    <glassmaterial msg="" size="300px" depth="12px"/>
   </div>
 </template>
 
 <script>
 import glassmaterial from './components/glassmaterial.vue'
+// import glassmaterial1 from './components/glassmaterial.1.vue'
 
 export default {
   name: 'app',
   components: {
     glassmaterial
+    // glassmaterial1
   }
 }
 </script>
